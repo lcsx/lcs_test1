@@ -2,4 +2,4 @@ lcs add
 ;smnalskdn   xdl
 
 
-llllxxx
+llllxxx  sss
